@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace DentalCentelBacked.Controllers
+namespace HackathonBacked.Controllers
 {
     [ApiController]
     [Route("[controller]")]

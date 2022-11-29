@@ -4,7 +4,7 @@ using DentalCenterDomain.Core.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DentalCentelBacked
+namespace HackathonBacked
 {
     [Route("api/[controller]")]
     [ApiController]

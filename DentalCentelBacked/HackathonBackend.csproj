@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DentalCenterDomain\DentalCenterDomain.csproj" />
+    <ProjectReference Include="..\DentalCenterDomain\HackathonDomain.csproj" />
   </ItemGroup>
 
 </Project>

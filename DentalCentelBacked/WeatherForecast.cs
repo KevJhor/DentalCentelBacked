@@ -1,4 +1,4 @@
-namespace DentalCentelBacked
+namespace HackathonBacked
 {
     public class WeatherForecast
     {

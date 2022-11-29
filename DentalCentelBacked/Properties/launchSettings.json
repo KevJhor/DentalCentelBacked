@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "DentalCentelBacked": {
+    "HackathonBacked": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
